@@ -1,0 +1,23 @@
+.cssDisplay{
+    display:flex;
+    justify-content:center;
+    align-items:flex-start;
+    flex-direction:column;
+    width:260px;
+  }
+  
+  .cssDisplayOper{
+    font-size:15px;
+    color:#000;
+    height:30px;
+    
+    
+  }
+  
+  .cssDisplayRes{
+    font-size:30px;
+    color:#000;
+    height:30px;
+    padding-bottom: 5%;
+    
+  }
