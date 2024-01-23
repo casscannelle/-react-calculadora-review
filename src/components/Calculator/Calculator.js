@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import Display from '../Display/Display';
-import Button from '../Button/Button';
+import Display from '../Display';
+import Button from '../Button';
 
 const Calculator = () => {
   const [valorDisplay, setValorDisplay] = useState('');
